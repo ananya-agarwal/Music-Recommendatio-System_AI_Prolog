@@ -1,3 +1,3 @@
-# Music-Recommendatio-System_AI_Prolog
+# Music-Recommendation-System_AI_Prolog
 
 This system will detect the type of songs best suited according to your mood...
